@@ -1,0 +1,96 @@
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Anasayfa.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AdminSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikRaporlama.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikSatisMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.CanliSatis.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Giris.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukRaporlama.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukSatisMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.KullaniciSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariEkle.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariGuncelle.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikRaporlama.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikSatisMail.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGiris.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGuncelleme.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokTemizleme.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.UrunCinsi.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukSatisBilgileri.resources
+C:\Users\canan.sahin\Desktop\form uygulamaları\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukStokBilgileri.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AdminSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Anasayfa.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikRaporlama.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikSatisMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.CanliSatis.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Giris.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukRaporlama.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukSatisMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.KullaniciSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariEkle.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariGuncelle.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikRaporlama.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikSatisMail.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGiris.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGuncelleme.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.StokTemizleme.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.UrunCinsi.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukSatisBilgileri.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukStokBilgileri.resources
+C:\Users\canan.sahin\Desktop\stok_takip\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.AdminSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.Anasayfa.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikRaporlama.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.AylikSatisMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.CanliSatis.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.Giris.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukRaporlama.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.GunlukSatisMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.KullaniciSifreIslemleri.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariEkle.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.MailAyarlariGuncelle.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikRaporlama.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.SenelikSatisMail.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGiris.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.StokGuncelleme.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.StokTemizleme.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.UrunCinsi.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukSatisBilgileri.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.WebGunlukStokBilgileri.resources
+C:\Users\canan.sahin\Desktop\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.Cache
+D:\program ile ilgili\stoktakip\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+D:\program ile ilgili\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+D:\program ile ilgili\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
+E:\program ile ilgili\stoktakip\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+E:\program ile ilgili\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+E:\program ile ilgili\stoktakip\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
